@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: lightblue;
+}
+
+h1 {
+  background-color: red;
+  margin: 0;
+  color: white;
+}
+
+h4 {
+  background-color: white;
+  margin: 0;
+  color: red;
+}
+
+ul {
+  list-style: decimal;
+  padding: 18px;
+}
+
+li {
+  padding: 6px 0;
+}
